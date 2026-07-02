@@ -6,7 +6,7 @@
 
 - **Language**: TypeScript
 - **Framework**: Next.js, React
-- **Testing**: jest-dom, jest-environment-jsdom, ts-jest, jest
+- **Testing**: jest-dom, ts-jest, jest-environment-jsdom, jest
 
 ## Entry Points
 
@@ -17,17 +17,8 @@
 
 ### kanban
 
-# Kanban Project Manager
-
-## Instructions
-
-This is a skeleton project to be the basis for your Kanban project for Week 1 of the Complete AI Coder Course. See the course resources for more.
-
-You should
-
 **Files:**
 - `AGENTS.md`
-- `README.md`
 
 ### community_contributions
 
