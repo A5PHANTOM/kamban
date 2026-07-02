@@ -2,11 +2,28 @@
 
 ## Overview
 
+## Architecture
+
+```mermaid
+graph TD
+    m0["kanban"]
+    m1["community_contributions"]
+    m2["frontend"]
+    m3["app"]
+```
+
 ## Tech Stack
 
-- **Language**: TypeScript
-- **Framework**: Next.js, React
-- **Testing**: jest-dom, ts-jest, jest-environment-jsdom, jest
+```mermaid
+pie title Technology Distribution
+    "TypeScript" : 1
+    "React" : 1
+    "Next.js" : 1
+    "ts-jest" : 1
+    "jest" : 1
+    "jest-dom" : 1
+    "jest-environment-jsdom" : 1
+```
 
 ## Entry Points
 
@@ -17,8 +34,23 @@
 
 ### kanban
 
+# Project Documentation
+
+## Overview
+
+## Tech Stack
+
+- **Language**: TypeScript
+- **Framework**: Next.js, React
+- **Testing**: jest-dom, ts-jest, jest-environment-jsdom, jest
+
+## Entry Points
+
+- `/Use
+
 **Files:**
 - `AGENTS.md`
+- `README.md`
 
 ### community_contributions
 
