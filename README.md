@@ -34,23 +34,8 @@ pie title Technology Distribution
 
 ### kanban
 
-# Project Documentation
-
-## Overview
-
-## Tech Stack
-
-- **Language**: TypeScript
-- **Framework**: Next.js, React
-- **Testing**: jest-dom, ts-jest, jest-environment-jsdom, jest
-
-## Entry Points
-
-- `/Use
-
 **Files:**
 - `AGENTS.md`
-- `README.md`
 
 ### community_contributions
 
